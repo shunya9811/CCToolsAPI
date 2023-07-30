@@ -16,6 +16,9 @@ APIを通して、為替レート取得しているので、実装してない�
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/64852663/215014890-368e9e6c-327e-4e2f-8ea1-35d30b6c6cf8.gif)
 
+## API提供元
+
+https://apilayer.com/marketplace/exchangerates_data-api
 
 ## URL
 
